@@ -1,0 +1,9 @@
+input:focus{
+  border-color:black;
+  outline:none;
+}
+
+.lato{
+  font-family: "Lato";
+}
+
